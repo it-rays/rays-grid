@@ -39,7 +39,6 @@ RAYS grid can display grid from any custom post types, Also we created a new cus
 * Visual Composer Compatible.
 * Various Nav Filter Styles.
 
-
 == Installation ==
 
 1. Install as regular WordPress plugin.<br />
