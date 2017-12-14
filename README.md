@@ -1,17 +1,4 @@
 === RAYS Grid ===
-	Contributors: IT-RAYS
-	Donate link: https://www.it-rays.org
-	Tags: rays grid, grid, custom post grid, post type grid, portfolio grid, portfolio masonry, grid display, category filter, custom post, isotope, filter, filtering, grid, layout, list, masonry, post, post filter, post layout
-	Requires at least: 4.9
-	Tested up to: 4.9
-	Requires PHP: 5.6
-	Stable tag: 1.0.0
-	License: GPLv2 or later
-	License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-	Awesome Wordpress Grid Plugin to display WordPress posts in Grid, List & Isotope view.
-
-== Description ==
 Creating your own customized grid with Rays Grid is super easy. Create, Choose and Customize the grid options with a User Friendly, Well designed Options Panel And Creative Skins to make your site look better and more unique.
 
 
