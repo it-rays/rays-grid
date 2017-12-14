@@ -1,7 +1,3 @@
-=== RAYS Grid ===
-Creating your own customized grid with Rays Grid is super easy. Create, Choose and Customize the grid options with a User Friendly, Well designed Options Panel And Creative Skins to make your site look better and more unique.
-
-
 ### RAYS Grid by  [https://www.it-rays.org](https://www.it-rays.org)
 
 * [Check the Live demo](https://www.it-rays.org/raysgrid/)
